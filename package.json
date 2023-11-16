@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/BrunaCardoso7/chat-online-sockeio#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
